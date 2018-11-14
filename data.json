@@ -1,0 +1,63 @@
+{
+    "app_settings": {
+        "players": {
+            "0": "Player 1",
+            "1": "Player 2"
+        },
+        "turn_limit": 25
+    },
+    "player_profiles": {
+        "Player 1": {
+            "closed_15": 6,
+            "closed_16": 6,
+            "closed_17": 5,
+            "closed_18": 6,
+            "closed_19": 5,
+            "closed_20": 6,
+            "closed_board": 5,
+            "closed_bulls": 6,
+            "matches": 7,
+            "scores": [
+                0,
+                0,
+                0,
+                0,
+                150,
+                0,
+                0,
+                0,
+                0,
+                0,
+                15
+            ],
+            "started": 4,
+            "wins": 5
+        },
+        "Player 2": {
+            "closed_15": 6,
+            "closed_16": 5,
+            "closed_17": 6,
+            "closed_18": 5,
+            "closed_19": 6,
+            "closed_20": 5,
+            "closed_board": 6,
+            "closed_bulls": 5,
+            "matches": 11,
+            "scores": [
+                50,
+                50,
+                1580,
+                50,
+                150,
+                0,
+                0,
+                0,
+                0,
+                0,
+                150
+            ],
+            "started": 5,
+            "wins": 5
+        }
+    }
+}
